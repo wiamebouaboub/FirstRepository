@@ -12,4 +12,10 @@ public class Classe {
     //first commit
     
     //Modification de marion 
+    
+    int ami;
+
+    public Classe(int a) {
+        this.ami = a;
+    }
 }
