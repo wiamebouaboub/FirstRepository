@@ -13,5 +13,10 @@ public class Classe {
     
     //Modification de marion 
     
+    int ami;
+
+    public Classe(int a) {
+        this.ami = a;
+    }
     int i=0;
 }
