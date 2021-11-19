@@ -12,4 +12,6 @@ public class Classe {
     //first commit
     
     //Modification de marion 
+    
+    int i=0;
 }
